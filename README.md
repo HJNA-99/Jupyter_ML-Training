@@ -21,3 +21,4 @@
 
 ● Image
 
+<img src="https://github.com/HJNA-99/Jupyter_ML-Training/blob/main/ML_Training_Result.png">
