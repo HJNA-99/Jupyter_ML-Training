@@ -2,7 +2,7 @@
 
 ● Training Title
 
-: 의료데이터를 기반으로  ML Training
+: 의료데이터를 기반  ML Training
 
 ●Details
 
